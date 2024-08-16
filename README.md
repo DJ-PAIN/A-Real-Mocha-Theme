@@ -1,6 +1,6 @@
 # A-Real-Mocha-Theme
 
-**A-Real-Mocha-Theme** is a playful Discord theme inspired by the "OperaGXTheme." This is my first attempt at creating a theme, so please be kind! :3
+**A-Real-Mocha-Theme** is a playful Discord theme Based off the "OperaGXTheme." This is my first attempt at creating a theme, so please be kind! :3
 
 ## Overview
 
