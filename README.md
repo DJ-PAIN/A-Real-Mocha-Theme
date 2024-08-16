@@ -15,7 +15,7 @@ You can see the theme in action through these previews:
 
 ## Installation
 
-To install this theme, you'll need to have [BetterDiscord](https://betterdiscord.app/) or [Powercord](https://powercord.dev/) installed. Follow these steps:
+To install this theme, you'll need to have [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev/) installed. Follow these steps:
 
 1. **Download the Theme:**
    - Go to the [releases page](https://github.com/DJ-PAIN/A-Real-Mocha-Theme/releases) and download the latest `.theme.css` file.
@@ -43,6 +43,6 @@ If you'd like to contribute to the theme, please fork the repository, make your 
 If you have any questions or feedback, feel free to reach out to me:
 
 - **GitHub:** [DJ-PAIN](https://github.com/DJ-PAIN)
-- **Discord:** [YourDiscordTagHere]
+- **Discord:** Brahmvn
 
 Thank you for checking out "A-Real-Mocha-Theme"! I hope you enjoy it! :3
