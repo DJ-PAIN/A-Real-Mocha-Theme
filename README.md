@@ -43,6 +43,6 @@ If you'd like to contribute to the theme, please fork the repository, make your 
 If you have any questions or feedback, feel free to reach out to me:
 
 - **GitHub:** [DJ-PAIN](https://github.com/DJ-PAIN)
-- **Discord:** Brahmvn
+- **Discord:** Brahmvn [Add me](https://discord.com/users/723405488007544853)
 
 Thank you for checking out "A-Real-Mocha-Theme"! I hope you enjoy it! :3
